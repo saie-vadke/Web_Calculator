@@ -1,5 +1,7 @@
 # Web_Calculator
 
+https://saie-vadke.github.io/Web_Calculator/
+
 The Web Calculator project is simply in HTML, CSS, and JavaScript. Taking about the features of the Calculator, the user can add, subtract, divide, find squares, under roots, trigonometry ratios, multiply, even check the remainder of any two numbers. You can just click the numbers you want to involve in calculations and click the button with the “=” sign for the result.
 This project includes a lot of javascript for making validations to certain parts of the project.
 
